@@ -1,0 +1,25 @@
+Strain,DPI,DENV status,Name,Target/Ref
+WT+D5,5,Pos,"WT,D5,CC,+,1",9.99E-02
+WT+D5,5,Pos,"WT,D5,CC,+,4",1.08E-02
+WT+D5,5,Pos,"WT,D5,CC,+,6",2.37E-02
+WT-D5,5,Neg,"WT,D5,CC,-,2",4.19E-02
+WT-D5,5,Neg,"WT,D5,CC,-,5",4.41E-02
+WT-D5,5,Neg,"WT,D5,CC,-,6",1.47E-02
+wMel+D5,5,Pos,"wMel,D5,CC+,1",0.1158
+wMel-D5,5,Neg,"wMel,D5,CC,-,1",1.42E-02
+wMel-D5,5,Neg,"wMel,D5,CC,-,2",3.15E-03
+wMel-D5,5,Neg,"wMel,D5,CC,-,3",9.61E-03
+wMel-D5,5,Neg,"wMel,D5,CC,-,4",7.10E-04
+wMel-D5,5,Neg,"wMel,D5,CC,-,5",2.64E-03
+wMel-D5,5,Neg,"wMel,D5,CC,-,6",3.52E-03
+WT+D10,10,Pos,"WT,D10,CC,+,3",0.7592
+WT-D10,10,Neg,"WT,D10,CC,-,2",8.03E-03
+WT-D10,10,Neg,"WT,D10,CC,-,3",1.12E-02
+WT-D10,10,Neg,"WT,D10,CC,-,6",1.23E-02
+wMel+D10,10,Pos,"wMel,D10,CC,+,1",1.56E-02
+wMel+D10,10,Pos,"wMel,D10,CC,+,3",3.05E-02
+wMel+D10,10,Pos,"wMel,D10,CC,+,5",2.67E-02
+wMel-D10,10,Neg,"wMel,D10,CC,-,2",1.04E-02
+wMel-D10,10,Neg,"wMel,D10,CC,-,4",4.32E-02
+wMel-D10,10,Neg,"wMel,D10,CC,-,5",1.48E-02
+wMel-D10,10,Neg,"wMel,D10,CC,-,6",1.36E-02
